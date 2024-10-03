@@ -1,0 +1,18 @@
+hello.txt:
+cd Desktop/
+cd java1/
+ls
+git init
+add
+git status
+git add hello.txt
+git commit -m "Add hello.txt"
+git branch -M master
+git push origin master
+
+
+remote.txt:
+git add remote.txt
+git commit -m "Add remote.txt"
+git push origin master
+
